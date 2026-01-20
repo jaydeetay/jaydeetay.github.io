@@ -1,5 +1,5 @@
 # Some title
 My github home page
 
-## Some Subitle
+## Some Subtitle
 More content
