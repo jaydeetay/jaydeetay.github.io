@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "John Taylor", "email": "john@penterakt.io", "phone": "412-555-0143", "city": "Pittsburgh" },
+  { "id": 2, "name": "Louise Groves", "email": "louise@example.com", "phone": "412-555-0199", "city": "Pittsburgh" },
+  { "id": 3, "name": "Grahame Taylor", "email": "grahame@example.org", "phone": "0131-555-0122", "city": "Connah's Quay" },
+  { "id": 4, "name": "Elena Rostova", "email": "elena.ros@example.com", "phone": "206-555-0182", "city": "Seattle" },
+  { "id": 5, "name": "Marcus Vance", "email": "mvance@domain.com", "phone": "512-555-0144", "city": "Austin" },
+  { "id": 6, "name": "Amina Diop", "email": "amina@diop-design.net", "phone": "312-555-0119", "city": "Chicago" },
+  { "id": 7, "name": "Kenji Sato", "email": "k.sato@techcorp.jp", "phone": "213-555-0177", "city": "Los Angeles" },
+  { "id": 8, "name": "Chloe Beaumont", "email": "chloe.b@monde.fr", "phone": "617-555-0131", "city": "Boston" },
+  { "id": 9, "name": "Devon Miller", "email": "devon.m@studios.org", "phone": "917-555-0165", "city": "New York" },
+  { "id": 10, "name": "Priya Nair", "email": "priya.nair@cloud.in", "phone": "415-555-0128", "city": "San Francisco" },
+  { "id": 11, "name": "Liam Gallagher", "email": "liam.g@sound.co.uk", "phone": " Denver", "city": "Denver" },
+  { "id": 12, "name": "Sofia Gomez", "email": "sofia.g@merid.io", "phone": "305-555-0102", "city": "Miami" },
+  { "id": 13, "name": " Mateo Silva", "email": "msilva@horizon.br", "phone": "602-555-0159", "city": "Phoenix" }
+]
+  
